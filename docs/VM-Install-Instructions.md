@@ -41,11 +41,11 @@ git config --global commit.gpgsign true
 15. Use Terminal Git, or a github client to pull and update ledger repos you copied
 
 16. Repos to put into ledger
-
+```
   git clone https://github.com/TigoCTM/ledger-guld.git
   git clone https://github.com/guld-games/ledger-gg.git
   git clone https://github.com/TigoCTM/token-prices.git
-
+```
 17. Rename Ledgers to `GULD`, `GG`, and `prices` Respectively
 
 18. Download Latest version of Bash GG
