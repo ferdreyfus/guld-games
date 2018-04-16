@@ -1,4 +1,4 @@
-Manual to set up VM Ware Ubuntu for Guld Games.
+#VM set up with VM Ware Ubuntu for Guld Games.
 
 1. Download VM Ware
 
