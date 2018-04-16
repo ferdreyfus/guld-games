@@ -25,13 +25,17 @@ Manual to set up VM Ware Ubuntu for Guld Games.
 12. Restart
 
 13. Git config Data, add the following data with your own
-
+```
 git config --global user.email email@emailprovider.com
-git config --global user.name John Doe
-git config --global user.username Jondoe
-git config --global user.signingkey ASDF213413O872436IJHQWEF987243HASD82389H
-git config --global commit.gpgsign true
 
+git config --global user.name John Doe
+
+git config --global user.username Jondoe
+
+git config --global user.signingkey ASDF213413O872436IJHQWEF987243HASD82389H
+
+git config --global commit.gpgsign true
+```
 14. Download GULD, GG, and Price Ledgers into folders named respectively in a folder named Ledger under you home folder ~/home/ledger
 
 15. Use Terminal Git, or a github client to pull and update ledger repos you copied
