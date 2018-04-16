@@ -48,9 +48,12 @@ git config --global commit.gpgsign true
 ```
 17. Rename Ledgers to `GULD`, `GG`, and `prices` Respectively
 
-18. Download Latest version of Bash GG
+18. Download Latest version of Bash GG 
+```
+https://github.com/guld-games/guld-games-bash.git
+```
 
-19. Run Bash GG for instructions
+19. Run Bash GG from that folder for instructions
 
 20. Play!
 
